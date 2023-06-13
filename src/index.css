@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(rgb(142,180,227,255), rgb(52,76,105), rgb(71,116,121), rgb(169,188,194), rgb(205,202,204));
+  background-repeat: no-repeat;
+  background-attachment: fixed
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Tilt Prism', cursive;
+  font-size: 40px;
+}
