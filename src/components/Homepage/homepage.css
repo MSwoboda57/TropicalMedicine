@@ -113,3 +113,23 @@ body {
     color: rgba(0, 0, 0, 0.65);
     transform: translateY(0);
   }
+
+
+/* Media queries for smaller screens */
+@media (max-width: 480px) {
+  /* Adjust the player size and margins for smaller screens */
+  #player {
+    max-width: 100%;
+    margin: 0;
+  }
+
+  /* Reduce padding for the buttons */
+  .button-container {
+    margin-top: 5px;
+  }
+
+  .next,
+  .previous {
+    padding: 5px 10px;
+  }
+}
