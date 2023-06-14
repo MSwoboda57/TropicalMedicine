@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TropicalMedicine/static/css/main.2c98e68b.css",
+    "main.js": "/TropicalMedicine/static/js/main.efe10e17.js",
+    "index.html": "/TropicalMedicine/index.html",
+    "main.2c98e68b.css.map": "/TropicalMedicine/static/css/main.2c98e68b.css.map",
+    "main.efe10e17.js.map": "/TropicalMedicine/static/js/main.efe10e17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c98e68b.css",
+    "static/js/main.efe10e17.js"
+  ]
+}
